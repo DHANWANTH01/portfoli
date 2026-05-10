@@ -1,0 +1,80 @@
+DHANWANTHBALA S
+Aspiring web developer and ai enthusiast dhanwanthb@gmail.com 
+Mobile No: +91-9629324204
+
+CAREER OBJECTIVE:
+I am a passionate and motivated Computer Science student with a strong interest in full stack 
+development, cloud technologies, and software development. I enjoy learning new technologies 
+and building practical projects that improve my problem-solving and technical skills.
+
+With knowledge of programming languages such as Python, html , css and JavaScript, I am 
+continuously enhancing my understanding of coding concepts, application development, and 
+modern development tools. I am eager to work with innovative teams, gain real-world 
+experience, and grow into a skilled software developer capable of creating efficient and 
+impactful solutions.
+
+EDUCATION:
+M.Tech in Computer Science Engineering 
+Sri Krishna College of Engineering and Technology(SKCET)
+CGPA : 7.89
+HSC – 92% , SSLC -90%
+
+SKILL SUMMARY:
+TECHNICAL:
+Languages: C++, Python, java script, java , SQL
+Web Technologies: HTML, CSS, MySQL, React , Node,
+Tools & Platforms: Git, VS Code, MySQL Workbench , Firebase
+Domain Interests: Full Stack Development, cloud technology 
+Currently learning : Android Studio
+
+PROJECTS:
+MediVault AI – Biometric Smart Healthcare Record System:
+Used : Python, React Native, Node.js, MongoDB, SQLite, TensorFlow, OpenCV, Firebase, 
+Biometric Authentication, Offline Database Synchronization, AI/ML
+
+Developed an AI-powered healthcare application that securely accesses patient medical records 
+using fingerprint and retina authentication during emergencies and critical situations. The system 
+allows doctors to instantly retrieve medical history, allergies, medications, and treatment details 
+for faster and accurate healthcare support, even without an internet connection.
+
+Integrated AI-based medication reminders, health predictions, automated medical charts, and 
+emergency alert features that notify the patient's trusted contacts or family members during 
+accidents or medical emergencies. Implemented secure offline data storage and authenticated 
+biometric access to ensure privacy, reliability, and continuous healthcare availability.
+
+IntelliDesk Assistant : 
+Python · Voice Recognition · System Automation
+• Engineered an AI-powered desktop assistant to manage applications, files, and system 
+operations using voice commands 
+• Built intelligent automation workflows to simplify repetitive daily tasks and improve user 
+productivity 
+• Developed real-time speech processing and command execution mechanisms for 
+responsive interaction 
+• Structured the project with scalable modules to support future integrations and advanced 
+AI capabilities 
+• Optimized assistant performance for faster response time and smoother user experience
+
+AREAS OF INTEREST:
+• Software Development 
+• Web Application Development 
+• Mobile App Development
+• Cloud computing 
+• Ai analytics
+
+ACHIEVEMENTS :
+➢ Won Technical events a Ramakrishna college – demonstrated problem solving 
+and web development 
+➢ Secured prizes in competitions at KPR College – recognized for technical and 
+thinking skills
+
+PROFILES:
+LinkedIn: https://www.linkedin.com/in/dhanwanth-bala-a686a7327/
+Github: https://github.com/DHANWANTH01
+
+INTERNSHIPS:
+Web Development Internship 
+Thiranex – full stack (remote)
+
+DECLARATION:
+ I hereby declare that the information provided is true and correct to the best of
+my knowledge . 
